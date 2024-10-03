@@ -1,2 +1,2 @@
-# co-umi-mobily
-Prezentace o moznostech mobilu a aplikaci
+# jak funguje rozpoznávání obličeje
+Prezentace IT1 - **Adéla B., Alice F.**
